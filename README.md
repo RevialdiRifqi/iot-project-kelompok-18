@@ -3,7 +3,7 @@ Teknologi IoT, Prodi S1 Informatika FT UNIB
 
 ## Anggota dan peran
 - Revialdi Rifqi : Device & Firmware Engineer
-- Diffo : Back-End & Data Engineer
+- Muhammad Hafuizh Ario Diffo  : Back-End & Data Engineer
 - Abid : Security & DevOps Engineer
 - Hanif : Dashboard Engineer & Project Manager
 
